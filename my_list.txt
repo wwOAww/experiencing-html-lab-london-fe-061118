@@ -1,0 +1,7 @@
+"table"
+"chair"
+"carpet"
+"wall" 
+"whiteboard"
+"door"
+"window"
